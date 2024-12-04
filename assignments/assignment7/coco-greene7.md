@@ -10,6 +10,6 @@ here is my chatbot scrreenshot
 
 it ran which was pretty cool. It also answer basic questions
 
-#### What didn;t go well
+#### What didn't go well
 
 It took forever, it is very slow, it was hard to download and I had to restart multiple times, and it still is extremely slow
